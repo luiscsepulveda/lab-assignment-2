@@ -1,11 +1,11 @@
 
-# Lab-Assignment#2 (Beta 2.0)–Node.JS & Modules
+# Lab-Assignment#2
 
 
 
 
 
-# Node.js File Reader
+# Node.JS & Modules
 
 This repository contains a JavaScript module (`mis-funciones1.js`) with several functions, along with an example script (`script1.js`) demonstrating how to use them.
 
